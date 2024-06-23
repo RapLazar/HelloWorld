@@ -1,3 +1,3 @@
 
 
-class Hello { public static void main(String[] args) { System.out.println("Hello ka dyan"); } }
+class Hello { public static void main(String[] args) { System.out.println("Hello ka dyan, Gab"); } }
